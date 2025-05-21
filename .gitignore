@@ -1,5 +1,8 @@
 # created by virtualenv automatically
 .venv/etc
 /.venv/
-/dataset/
+/VQA/dataset/
 /image_features.pkl
+/VQA/PKL/train_image_features.pkl
+/VQA/PKL/val_image_features.pkl
+/image caption/dataset/
